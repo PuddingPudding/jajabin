@@ -1,6 +1,1 @@
 black
-black 
-dark
-unrestricted
-
-A new challenger appears
